@@ -6,8 +6,8 @@
 **Learning Objectives**
 
 - Explain what needs to be donde to achieve the Level 2 on a  RESTFUL API on the Richardson Maturity Model.
-- Implement a Level 2 Users RESTFUL API Microservice.
-- Implement a Level 2 Tasks RESTFUL API Microservice.
+- Implement a Level 2 Users RESTFUL API Microservice (https://github.com/Nikolai9906/IETI-Users-Microservice-RESTFUL-API).
+- Implement a Level 2 Tasks RESTFUL API Microservice (https://github.com/Nikolai9906/IETI-Tasks-Microservice-RESTFUL-API).
 -  User dependencies injections to create a decoupled architecture.
 
 
@@ -32,7 +32,7 @@
   * Use either *Java* or *Kotlin* as programming language.
   * Use Gradle as project option(if your computer is slow then use  Maven)
   * Add Spring Web dependency before generating the project.
-2. Create a new repository on Github and commit the files generated in 1.
+2. Create a new repository on Github and commit the files generated in 1 (https://github.com/Nikolai9906/IETI-Users-Microservice-RESTFUL-API).
 3. Create a new package called *dto* and inside define your *UserDto* object with at least the following fields:
     * name.
     * email.
